@@ -1,10 +1,12 @@
+// src/App.tsx
+import React from 'react'
+
 function App() {
   return (
-    // 这是一个空的路由占位容器
-    <div className="min-h-screen bg-background font-sans antialiased">
-      {/* 后续这里会放 <RouterProvider /> 或路由入口 */}
-      <div className="flex h-screen items-center justify-center text-muted-foreground">
-        App is ready for Stage 2.3.
+    <div className="flex h-screen w-screen items-center justify-center bg-gray-50 text-gray-900">
+      <div className="text-center">
+        <h1 className="text-4xl font-bold mb-4">LLM ChatBox</h1>
+        <p className="text-gray-500">React Refactor Version - 准备进入阶段三 (UI 组件开发)</p>
       </div>
     </div>
   )
