@@ -1,13 +1,8 @@
 // src/App.tsx
-import React from 'react'
-
 function App() {
   return (
-    <div className="flex h-screen w-screen items-center justify-center bg-gray-50 text-gray-900">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">LLM ChatBox</h1>
-        <p className="text-gray-500">React Refactor Version - 准备进入阶段三 (UI 组件开发)</p>
-      </div>
+    <div className="h-screen w-screen bg-background text-foreground flex items-center justify-center">
+      <h1 className="text-2xl font-bold">第三阶段：UI 搭建准备就绪！</h1>
     </div>
   )
 }
