@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "livePreview": true
+}

@@ -1,0 +1,363 @@
+{
+  "main": {
+    "id": "2eb3e78737d3af08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4638df3f0b481a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff5fcf24970be455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-解释Sidebar.tsx的说明文档.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001-解释Sidebar.tsx的说明文档"
+            }
+          },
+          {
+            "id": "c6fbf210aec703fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-答疑/02-露馅了.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-露馅了"
+            }
+          },
+          {
+            "id": "f849e66831ee8e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/00-可能的问题.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-可能的问题"
+            }
+          },
+          {
+            "id": "3d8df4f5f13b63ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/04-Axios和Fetch API.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-Axios和Fetch API"
+            }
+          },
+          {
+            "id": "b1fcb54dfccae0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/05-useRef+自定义hook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-useRef+自定义hook"
+            }
+          },
+          {
+            "id": "f5e02a9dc2f5b6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/02-项目核心亮点回答.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-项目核心亮点回答"
+            }
+          },
+          {
+            "id": "76d29b17d5765cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/06-Markdown渲染优化.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-Markdown渲染优化"
+            }
+          },
+          {
+            "id": "1fea7fe566635857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React基础与Hooks核心概念.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React基础与Hooks核心概念"
+            }
+          },
+          {
+            "id": "4384bee4fef49e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/03-SSE和webSocket.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-SSE和webSocket"
+            }
+          },
+          {
+            "id": "2d5a46a27a85f2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试-针对项目的拷打/01-项目经历讲解.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-项目经历讲解"
+            }
+          },
+          {
+            "id": "2fca30e2316e7aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-答疑/01-项目没做完.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-项目没做完"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c6a7c9cb0e3fc4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ee5fbba6dd3ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3820bb3674b3af7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5940d1cb86c6780f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6763a756dd415420",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5
+  },
+  "right": {
+    "id": "183534f279d0ebd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6946c4c1659b17a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebbcd15191c2d8e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "22-全方位雌竞/总纲领.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "总纲领 的反向链接列表"
+            }
+          },
+          {
+            "id": "61693d5eb025f5f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8af46df386f260f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "22-全方位雌竞/总纲领.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "总纲领 的大纲"
+            }
+          },
+          {
+            "id": "90af2627cdf9ae4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00随意/未命名 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 3 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "ff5fcf24970be455",
+  "lastOpenFiles": [
+    "02-答疑/02-露馅了.md",
+    "面试-针对项目的拷打/00-可能的问题.md",
+    "面试-针对项目的拷打/04-Axios和Fetch API.md",
+    "面试-针对项目的拷打/05-useRef+自定义hook.md",
+    "面试-针对项目的拷打/02-项目核心亮点回答.md",
+    "面试-针对项目的拷打/06-Markdown渲染优化.md",
+    "React基础与Hooks核心概念.md",
+    "面试-针对项目的拷打/03-SSE和webSocket.md",
+    "面试-针对项目的拷打/01-项目经历讲解.md",
+    "02-答疑/01-项目没做完.md",
+    "面试-针对项目的拷打/06-.md",
+    "面试-针对项目的拷打/05-",
+    "00-提示词.md",
+    "面试-针对项目的拷打/02-项目亮点回答.md",
+    "001-解释Sidebar.tsx的说明文档.md",
+    "02-答疑",
+    "01-项目整体规划与阶段划分/04-第三阶段再划分.md",
+    "01-项目整体规划与阶段划分/01-第三阶段整体规划.md",
+    "01-项目整体规划与阶段划分/03-第二阶段再划分.md",
+    "01-项目整体规划与阶段划分/01-第二阶段划分.md",
+    "01-项目整体规划与阶段划分/02-第一阶段再划分.md",
+    "01-项目整体规划与阶段划分/01-大阶段划分.md",
+    "01-项目整体规划与阶段划分/001-好的请你现在把第一阶段详细展开，第一个大阶段 又分为几个小阶段，每个小阶段需要做什么？最终的呈现结果是什么，请你给出.md",
+    "01-项目整体规划与阶段划分/005-大阶段.md",
+    "01-项目整体规划与阶段划分",
+    "项目规划",
+    "新建文件夹",
+    "面试-针对项目的拷打/02-.md",
+    "第三阶段/阶段3.4",
+    "第三阶段/阶段3.3",
+    "第三阶段",
+    "08用AI学习前端/06-oneday-TypeScript/01-oneday-TypeScript.md",
+    "08用AI学习前端/06-oneday-TypeScript/05-泛型与工具类型.md",
+    "08用AI学习前端/06-oneday-TypeScript/04-讲解刚才的AddTodoForm组件.md",
+    "1426秋课程/北交课程/面向对象设计/25940001董宜旭mod6-16task1-4.zip",
+    "1426秋课程/北交课程/面向对象设计/25940001董宜旭mod6-16task1-4/作业4.pdf",
+    "Pasted image 20260107223014.png",
+    "Pasted image 20260107222923.png",
+    "Pasted image 20260107221632.png",
+    "Pasted image 20260107221113.png",
+    "Pasted image 20260107220323.png",
+    "Pasted image 20260107215312.png",
+    "Pasted image 20260107215257.png",
+    "Pasted image 20260107213448.png",
+    "Pasted image 20260107213350.png",
+    "Pasted image 20260107213343.png"
+  ]
+}
